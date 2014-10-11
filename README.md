@@ -1,4 +1,4 @@
 docker-ubuntu-oracle-jdk
 ========================
 
-Contains Docker files for ubuntu with oracle jdk
+Docker image with Oracle JDK, based on Ubuntu.
