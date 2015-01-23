@@ -8,4 +8,4 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends software-properties-common && \
     add-apt-repository ppa:webupd8team/java && \
     apt-get update && \
-    apt-get install -y --no-install-recommends oracle-java8-installer=8u25+8u6arm-1~webupd8~1
+    apt-get install -y --no-install-recommends oracle-java8-installer=8u31+8u33arm-1~webupd8~0
