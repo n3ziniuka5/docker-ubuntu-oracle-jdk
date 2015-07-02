@@ -1,12 +1,6 @@
-Ubuntu with Oracle JDK
-========================
+# Supported tags and respective `Dockerfile` links
 
-Docker image with Oracle JDK, based on Ubuntu. Tags:
+-	[`14.04-JDK7`, `14.04-JDK7u80` (*14.04-JDK7/Dockerfile*)](https://github.com/n3ziniuka5/docker-ubuntu-oracle-jdk/blob/master/14.04-JDK7/Dockerfile)
+-	[`14.04-JDK8`, `14.04-JDK8u45`, `latest` (*14.04-JDK8/Dockerfile*)](https://github.com/n3ziniuka5/docker-ubuntu-oracle-jdk/blob/master/14.04-JDK8/Dockerfile)
 
-* ```14.10-JDK8``` - Latest Ubuntu 14.10 image with latest JDK8
-* ```14.10-JDK7``` - Latest Ubuntu 14.10 image with latest JDK7
-* ```14.04-JDK8``` - Latest Ubuntu 14.04 image with latest JDK8
-* ```14.04-JDK7``` - Latest Ubuntu 14.04 image with latest JDK7
-* ```latest``` - same as ```14.10-JDK8```
-
-There are also tags will full JDK version like ```14.04-JDK7u76``` or ```14.04-JDK8u31```. Check the tags page for a full list.
+I will only support Ubuntu LTS releases
